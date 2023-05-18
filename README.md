@@ -17,6 +17,8 @@ export MOMENTO_TTL_SECONDS=300
 ## Run
 
 ```sh
-cd ~/Desktop/momento_nodejs
+cd ~/Desktop
+git clone https://github.com/ymd65536/momento_nodejs.git
+cd momento_nodejs
 node test.js
 ```
