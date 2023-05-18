@@ -13,3 +13,10 @@ npm install dotenv
 export MOMENTO_AUTH_TOKEN=<your Momento token here>
 export MOMENTO_TTL_SECONDS=300
 ```
+
+## Run
+
+```sh
+cd ~/Desktop/momento_nodejs
+node test.js
+```
